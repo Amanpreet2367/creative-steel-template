@@ -1,0 +1,112 @@
+BODY
+{
+	MARGIN:0;
+}
+
+.MAIN-CONTAINER
+{
+	HEIGHT:60PX;
+	BACKGROUND-COLOR:BLACK;
+	WIDTH:100%;
+	
+}
+.head-area
+{
+	HEIGHT:60PX;
+	WIDTH:90%;
+	BACKGROUND-COLOR:#363636;
+	MARGIN:AUTO;
+}
+.LOGO-AREA
+{
+	WIDTH:20%;
+	
+
+	float:left;
+}
+.logo-area img
+{
+	
+	padding:6px 0;
+	
+}
+.SEARCH-AREA{
+	WIDTH:40%;
+
+	float:left;
+	
+	
+}
+.search-area-text
+{
+width: 87%;
+padding: 9px 15px;
+font-size: 16px;
+margin: 11px;
+border-radius: 3px;
+border: unset;
+	
+}
+.Buttons
+{
+	width:40%;
+	
+	float:left;
+	
+}
+.buttons button
+{
+	padding: 6px 40px;
+font-size: 18px;
+margin-top: 9px;
+}
+.menu-bar
+{
+	background-color:black;
+	height:40px;
+	width:90%;
+	margin:auto;
+	
+}
+.diffr-option
+{
+	padding: 4px;
+font-size: 14px;
+margin: 6px 0;
+}
+.images-area{
+	width:90%;
+	background-color:#363636;
+	margin:auto;
+	height:350px;
+}
+.image1
+{
+	width:23%;
+	
+	float:left;
+	
+	
+	margin:0 12px;
+}
+.image1 img{
+	width:100%;
+}
+.image1 p
+{
+	    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+	text-align:center;
+	line-height:0;
+}
+.image1 span
+{
+	    font-size: 14px;
+    font-weight: bold;
+    color: #c8c3c3;
+    line-height: 0;
+	padding:94px;
+	line-height:0;
+
+}
