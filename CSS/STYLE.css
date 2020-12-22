@@ -5,24 +5,57 @@ BODY
 
 .MAIN-CONTAINER
 {
-	HEIGHT:60PX;
+	HEIGHT:30PX;
 	BACKGROUND-COLOR:BLACK;
 	WIDTH:100%;
 	
 }
 .head-area
 {
-	HEIGHT:60PX;
+	HEIGHT:92PX;
 	WIDTH:90%;
-	BACKGROUND-COLOR:#363636;
+	BACKGROUND-COLOR:white;
 	MARGIN:AUTO;
+}
+.head-area-content
+{
+	height:30px;
+	width:90%;
+	margin:auto;
+	
+}
+
+.phone-icon
+{
+	
+	width:40%;
+	float:left;
+}
+.phone-icon img
+{
+	padding:6px;
+}
+.account-detail
+{
+	width:20%;
+
+	height:30px;
+	float:right;
+}
+.account-info p
+{
+	line-height: 0px;
+font-size: 18px;
+color: white;
+font-weight: bold;
+padding: 0 15px;
+margin: 14px 0;
 }
 .LOGO-AREA
 {
-	WIDTH:20%;
-	
-
-	float:left;
+	WIDTH: 20%;
+float: left;
+padding: 15px 0;
 }
 .logo-area img
 {
@@ -31,26 +64,28 @@ BODY
 	
 }
 .SEARCH-AREA{
-	WIDTH:40%;
+	WIDTH: 40%;
+float: left;
+padding: 15px 0;
 
-	float:left;
 	
 	
 }
 .search-area-text
 {
-width: 87%;
+	width:87%;
 padding: 9px 15px;
 font-size: 16px;
 margin: 11px;
 border-radius: 3px;
 border: unset;
+background-color:aliceblue;
 	
 }
 .Buttons
 {
-	width:40%;
 	
+	padding: 15px 0;
 	float:left;
 	
 }
@@ -64,7 +99,7 @@ margin-top: 9px;
 {
 	background-color:black;
 	height:40px;
-	width:90%;
+	
 	margin:auto;
 	
 }
@@ -72,7 +107,7 @@ margin-top: 9px;
 {
 	padding: 4px;
 font-size: 14px;
-margin: 6px 0;
+margin: 6px 70px;
 }
 .images-area{
 	width:90%;
@@ -109,4 +144,29 @@ margin: 6px 0;
 	padding:94px;
 	line-height:0;
 
+}
+.discription
+{
+	width:40%;
+	
+	height:350px;
+	float:left;
+	margin-left:2%;
+	
+	
+}
+.discription p
+{
+	font-size: 18px;
+font-weight: bold;
+color: blue;
+}
+.rate
+{
+	width:20%;
+	height:350px;
+	background-color:aqua;
+	float:left;
+	margin-left:2%;
+	
 }
