@@ -228,6 +228,12 @@ margin: 6px 70px;
 	width: 50%;
     float: left;
 }
+#heading
+{
+	font-size:18px;
+	font-weight:bold;
+	
+}
 .button1
 {
 	  background-color: #ff9f00;
